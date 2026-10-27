@@ -1,0 +1,331 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score
+SYN0001,Scholarship Inquiry,Staff,1/1/2025,Portal,Normal,Scholarship Office,8,Yes,4.0,5,Completed,No,4.0
+SYN0002,Certification,Staff,1/2/2025,Portal,Normal,Registrar,7,No,7.0,7,Completed,No,4.0
+SYN0003,Enrollment Assistance,Student,1/3/2025,Email,Normal,Student Affairs,8,No,6.0,7,Completed,No,4.0
+SYN0004,IT Support,Student,1/4/2025,Portal,High,IT Office,8,Yes,,3,Pending,Yes,4.0
+SYN0005,Records,Student,1/5/2025,Portal,Low,Student Affairs,6,No,2.0,2,Completed,No,5.0
+SYN0006,Enrollment Assistance,Student,1/6/2025,Email,Normal,Registrar,11,No,3.0,2,Completed,No,1.0
+SYN0007,Scholarship Inquiry,Student,1/7/2025,Email,Low,Scholarship Office,15,Yes,2.0,2,Completed,No,
+SYN0008,Scholarship Inquiry,Student,1/8/2025,Email,Normal,Scholarship Office,6,Yes,7.0,7,Completed,No,2.0
+SYN0009,Records,Student,1/9/2025,Portal,Low,Registrar,4,Yes,10.0,7,Completed,No,4.0
+SYN0010,Certification,Student,1/10/2025,Email,High,Registrar,11,Yes,3.0,5,Completed,No,4.0
+SYN0011,Certification,Staff,1/11/2025,Portal,Low,Registrar,13,Yes,,2,Pending,No,4.0
+SYN0012,Enrollment Assistance,Student,1/12/2025,Portal,High,Student Affairs,8,Yes,2.0,2,Completed,No,4.0
+SYN0013,IT Support,Student,1/13/2025,Portal,High,IT Office,7,Yes,7.0,7,Completed,No,5.0
+SYN0014,Scholarship Inquiry,Staff,1/14/2025,Portal,Normal,Scholarship Office,15,Yes,1.0,3,Completed,No,4.0
+SYN0015,Certification,Student,1/15/2025,Email,Normal,Registrar,12,Yes,1.0,2,Completed,No,5.0
+SYN0016,Records,Student,1/16/2025,Portal,Normal,Registrar,11,Yes,2.0,2,Completed,No,4.0
+SYN0017,IT Support,Faculty,1/17/2025,Portal,High,IT Office,7,Yes,4.0,3,Completed,No,1.0
+SYN0018,Records,Student,1/18/2025,Email,Normal,Registrar,8,Yes,3.0,5,Completed,Yes,4.0
+SYN0019,Scholarship Inquiry,Student,1/19/2025,Email,Normal,Scholarship Office,9,Yes,9.0,7,Completed,No,4.0
+SYN0020,IT Support,Student,1/20/2025,Portal,Low,IT Office,13,Yes,6.0,3,Completed,No,4.0
+SYN0021,Scholarship Inquiry,Staff,1/21/2025,Walk-in,Normal,Scholarship Office,11,,6.0,5,Completed,No,
+SYN0022,Certification,Student,1/22/2025,Email,Low,Registrar,10,No,1.0,2,Completed,No,5.0
+SYN0023,Enrollment Assistance,Student,1/23/2025,Walk-in,Normal,Registrar,5,No,,2,Pending,No,
+SYN0024,Enrollment Assistance,Student,1/24/2025,Walk-in,Normal,Registrar,7,Yes,1.0,2,Completed,No,4.0
+SYN0025,Scholarship Inquiry,Student,1/25/2025,Walk-in,Normal,Scholarship Office,9,Yes,4.0,7,Completed,No,5.0
+SYN0026,Records,Student,1/26/2025,Email,Normal,Student Affairs,8,Yes,,5,Pending,No,5.0
+SYN0027,Certification,Student,1/27/2025,Portal,Normal,Student Affairs,5,Yes,4.0,7,Completed,No,5.0
+SYN0028,Records,Faculty,1/28/2025,,Normal,Student Affairs,4,No,1.0,2,Completed,No,
+SYN0029,Records,Student,1/29/2025,Portal,Normal,Registrar,7,Yes,3.0,2,Completed,No,5.0
+SYN0030,IT Support,Student,1/30/2025,Email,Normal,IT Office,9,Yes,5.0,7,Completed,No,
+SYN0031,Scholarship Inquiry,Student,1/31/2025,Portal,High,Scholarship Office,14,Yes,6.0,2,Completed,No,5.0
+SYN0032,Enrollment Assistance,Student,2/1/2025,Email,Low,Student Affairs,10,Yes,2.0,2,Completed,No,3.0
+SYN0033,Certification,Student,2/2/2025,Portal,Low,Student Affairs,8,Yes,4.0,5,Completed,No,5.0
+SYN0034,Certification,Student,2/3/2025,Portal,Low,Registrar,7,Yes,3.0,5,Completed,No,4.0
+SYN0035,Certification,Student,2/4/2025,Portal,Normal,Registrar,7,No,3.0,2,Completed,No,
+SYN0036,Records,Student,2/5/2025,Portal,Normal,Student Affairs,12,Yes,2.0,3,Completed,No,5.0
+SYN0037,Records,Student,2/6/2025,Portal,Normal,Registrar,12,Yes,5.0,5,Completed,No,3.0
+SYN0038,Certification,Student,2/7/2025,Portal,Normal,Registrar,3,Yes,1.0,3,Completed,No,3.0
+SYN0039,Records,Student,2/8/2025,Email,Normal,Student Affairs,15,Yes,,3,Pending,No,2.0
+SYN0040,IT Support,Staff,2/9/2025,Portal,High,IT Office,7,Yes,1.0,2,Completed,No,4.0
+SYN0041,Certification,Student,2/10/2025,Portal,Normal,Student Affairs,5,Yes,5.0,3,Completed,No,3.0
+SYN0042,Scholarship Inquiry,Staff,2/11/2025,Portal,Normal,Scholarship Office,7,Yes,10.0,7,Completed,Yes,5.0
+SYN0043,Scholarship Inquiry,Faculty,2/12/2025,Portal,Normal,Scholarship Office,11,No,4.0,5,Completed,No,5.0
+SYN0044,Certification,Student,2/13/2025,Portal,Normal,Student Affairs,9,Yes,9.0,7,Completed,No,5.0
+SYN0045,Scholarship Inquiry,Staff,2/14/2025,Email,Low,Scholarship Office,13,Yes,1.0,2,Completed,No,4.0
+SYN0046,Scholarship Inquiry,Student,2/15/2025,Email,Low,Scholarship Office,13,Yes,4.0,2,Completed,No,4.0
+SYN0047,Certification,Student,2/16/2025,Portal,High,Student Affairs,7,Yes,4.0,5,Completed,No,3.0
+SYN0048,Certification,Student,2/17/2025,Portal,Normal,Student Affairs,8,Yes,1.0,2,Completed,No,5.0
+SYN0049,IT Support,Student,2/18/2025,Portal,Normal,IT Office,12,No,4.0,5,Completed,No,3.0
+SYN0050,Records,Student,2/19/2025,Portal,Normal,Student Affairs,12,Yes,9.0,7,Completed,No,3.0
+SYN0051,Records,Student,2/20/2025,Walk-in,Normal,Registrar,6,Yes,3.0,3,Completed,No,4.0
+SYN0052,Records,Student,2/21/2025,Portal,High,Student Affairs,12,Yes,9.0,5,Completed,No,5.0
+SYN0053,Scholarship Inquiry,Student,2/22/2025,Walk-in,Normal,Scholarship Office,6,Yes,4.0,5,Completed,No,3.0
+SYN0054,IT Support,Student,2/23/2025,Portal,Normal,IT Office,14,Yes,5.0,2,Completed,No,5.0
+SYN0055,Scholarship Inquiry,Student,2/24/2025,Portal,Normal,Scholarship Office,11,Yes,5.0,7,Completed,No,5.0
+SYN0056,Scholarship Inquiry,Student,2/25/2025,Portal,High,Scholarship Office,8,Yes,2.0,2,Completed,No,5.0
+SYN0057,Certification,Student,2/26/2025,Portal,Normal,Student Affairs,14,Yes,8.0,7,Completed,Yes,4.0
+SYN0058,IT Support,Student,2/27/2025,Walk-in,High,IT Office,11,Yes,,5,Pending,No,2.0
+SYN0059,Records,Student,2/28/2025,Portal,Low,Student Affairs,14,Yes,4.0,2,Completed,Yes,4.0
+SYN0060,Records,Student,3/1/2025,Email,High,Student Affairs,11,Yes,4.0,5,Completed,No,4.0
+SYN0061,IT Support,Student,3/2/2025,Email,Normal,IT Office,9,No,1.0,2,Completed,No,5.0
+SYN0062,Certification,Student,3/3/2025,Portal,Low,Registrar,12,Yes,,5,Cancelled,No,4.0
+SYN0063,IT Support,Student,3/4/2025,Portal,Normal,IT Office,9,Yes,8.0,7,Completed,No,4.0
+SYN0064,Scholarship Inquiry,Student,3/5/2025,Portal,Normal,Scholarship Office,10,Yes,10.0,7,Completed,No,3.0
+SYN0065,IT Support,Student,3/6/2025,Portal,Low,IT Office,9,Yes,,7,Cancelled,No,5.0
+SYN0066,IT Support,Student,3/7/2025,Email,Normal,IT Office,6,Yes,3.0,3,Completed,Yes,4.0
+SYN0067,IT Support,Student,3/8/2025,Portal,High,IT Office,7,Yes,,5,Cancelled,No,5.0
+SYN0068,Certification,Student,3/9/2025,Walk-in,Normal,Registrar,9,Yes,4.0,3,Completed,No,2.0
+SYN0069,Records,Student,3/10/2025,Portal,Normal,Registrar,12,Yes,7.0,7,Completed,No,
+SYN0070,Certification,Student,3/11/2025,Portal,Normal,Registrar,13,Yes,4.0,3,Completed,No,5.0
+SYN0071,Records,Student,3/12/2025,Email,Normal,Registrar,5,Yes,7.0,7,Completed,No,4.0
+SYN0072,Certification,Student,3/13/2025,Portal,High,Student Affairs,12,Yes,,3,Pending,No,1.0
+SYN0073,Enrollment Assistance,Student,3/14/2025,Walk-in,Normal,Student Affairs,9,,7.0,5,Completed,No,4.0
+SYN0074,Records,Student,3/15/2025,Portal,Low,Registrar,11,No,,2,Cancelled,No,3.0
+SYN0075,Records,Student,3/16/2025,Walk-in,High,Registrar,9,Yes,9.0,5,Completed,No,4.0
+SYN0076,Certification,Student,3/17/2025,Email,High,Student Affairs,16,Yes,4.0,2,Completed,No,5.0
+SYN0077,Certification,Staff,3/18/2025,Email,Normal,Student Affairs,7,No,,2,Cancelled,No,5.0
+SYN0078,IT Support,Student,3/19/2025,Portal,High,IT Office,9,Yes,2.0,3,Completed,No,3.0
+SYN0079,IT Support,Student,3/20/2025,Email,Low,IT Office,6,Yes,,3,Pending,No,5.0
+SYN0080,Scholarship Inquiry,Student,3/21/2025,Portal,High,Scholarship Office,7,No,4.0,5,Completed,No,4.0
+SYN0081,IT Support,Faculty,3/22/2025,Email,Normal,IT Office,8,Yes,4.0,3,Completed,No,
+SYN0082,Certification,Student,3/23/2025,Portal,Normal,Student Affairs,7,Yes,2.0,2,Completed,No,2.0
+SYN0083,Scholarship Inquiry,Faculty,3/24/2025,Portal,Low,Scholarship Office,10,Yes,1.0,3,Completed,No,5.0
+SYN0084,Records,Student,3/25/2025,Portal,High,Registrar,3,Yes,2.0,3,Completed,No,5.0
+SYN0085,Records,Student,3/26/2025,Portal,Low,Registrar,10,Yes,6.0,5,Completed,No,2.0
+SYN0086,Records,Student,3/27/2025,Portal,Normal,Student Affairs,7,Yes,4.0,5,Completed,No,3.0
+SYN0087,Scholarship Inquiry,Student,3/28/2025,Email,Low,Scholarship Office,4,Yes,1.0,2,Completed,No,4.0
+SYN0088,Certification,Student,3/29/2025,Portal,Normal,Registrar,8,Yes,,5,Pending,No,5.0
+SYN0089,Records,Faculty,3/30/2025,Email,Low,Registrar,11,Yes,5.0,5,Completed,No,4.0
+SYN0090,IT Support,Student,3/31/2025,Portal,High,IT Office,6,Yes,6.0,7,Completed,No,5.0
+SYN0091,Records,Staff,4/1/2025,Email,Normal,Registrar,11,No,,5,Cancelled,No,5.0
+SYN0092,IT Support,Student,4/2/2025,Email,Low,IT Office,8,Yes,8.0,7,Completed,No,5.0
+SYN0093,Certification,Student,4/3/2025,Portal,Low,Registrar,9,Yes,1.0,2,Completed,No,4.0
+SYN0094,Certification,Student,4/4/2025,Email,Low,Registrar,13,Yes,9.0,5,Completed,No,4.0
+SYN0095,Certification,Student,4/5/2025,Walk-in,Normal,Student Affairs,16,Yes,2.0,2,Completed,No,5.0
+SYN0096,IT Support,Student,4/6/2025,Email,High,IT Office,15,Yes,1.0,2,Completed,No,4.0
+SYN0097,Certification,Student,4/7/2025,Portal,Normal,Registrar,8,No,9.0,7,Completed,No,5.0
+SYN0098,Records,Student,4/8/2025,Portal,High,Student Affairs,6,Yes,2.0,3,Completed,No,1.0
+SYN0099,Records,Student,4/9/2025,Email,Low,Student Affairs,9,Yes,5.0,5,Completed,No,4.0
+SYN0100,Enrollment Assistance,Student,4/10/2025,Portal,High,Registrar,14,Yes,6.0,5,Completed,No,5.0
+SYN0101,Enrollment Assistance,Student,4/11/2025,Email,High,Registrar,10,Yes,5.0,5,Completed,No,4.0
+SYN0102,IT Support,Student,4/12/2025,Portal,Normal,IT Office,7,Yes,2.0,2,Completed,No,3.0
+SYN0103,Records,Student,4/13/2025,Email,Normal,Student Affairs,13,Yes,2.0,2,Completed,No,4.0
+SYN0104,Enrollment Assistance,Student,4/14/2025,Portal,High,Student Affairs,10,Yes,,2,Pending,No,4.0
+SYN0105,Scholarship Inquiry,Student,4/15/2025,Portal,Low,Scholarship Office,10,Yes,7.0,7,Completed,No,5.0
+SYN0106,Scholarship Inquiry,Student,4/16/2025,Walk-in,Normal,Scholarship Office,6,Yes,1.0,2,Completed,No,2.0
+SYN0107,Certification,Student,4/17/2025,Email,Low,Registrar,17,No,8.0,5,Completed,No,2.0
+SYN0108,Records,Student,4/18/2025,Walk-in,Normal,Registrar,17,Yes,5.0,3,Completed,No,4.0
+SYN0109,Records,Staff,4/19/2025,Walk-in,Normal,Student Affairs,10,Yes,3.0,2,Completed,No,
+SYN0110,Enrollment Assistance,Student,4/20/2025,Portal,Normal,Registrar,7,Yes,2.0,3,Completed,No,4.0
+SYN0111,Certification,Staff,4/21/2025,Portal,High,Registrar,8,Yes,,2,Cancelled,No,
+SYN0112,Records,Student,4/22/2025,Portal,Low,Registrar,10,No,2.0,2,Completed,No,5.0
+SYN0113,Certification,Student,4/23/2025,Portal,Normal,Registrar,10,Yes,,2,Pending,No,4.0
+SYN0114,IT Support,Student,4/24/2025,Portal,Low,IT Office,12,Yes,7.0,7,Completed,Yes,5.0
+SYN0115,Records,Student,4/25/2025,Walk-in,Normal,Student Affairs,8,Yes,4.0,5,Completed,No,5.0
+SYN0116,Enrollment Assistance,Student,4/26/2025,Portal,Normal,Registrar,8,Yes,5.0,7,Completed,No,4.0
+SYN0117,Scholarship Inquiry,Student,4/27/2025,Portal,High,Scholarship Office,11,Yes,1.0,3,Completed,No,4.0
+SYN0118,Scholarship Inquiry,Student,4/28/2025,Portal,Normal,Scholarship Office,13,No,,2,Pending,No,5.0
+SYN0119,Certification,Student,4/29/2025,Portal,Low,Registrar,16,Yes,,5,Cancelled,No,5.0
+SYN0120,IT Support,Student,4/30/2025,Portal,Normal,IT Office,11,Yes,,7,Pending,No,5.0
+SYN0121,IT Support,Student,5/1/2025,Email,Low,IT Office,4,No,5.0,5,Completed,Yes,
+SYN0122,IT Support,Student,5/2/2025,Portal,High,IT Office,6,Yes,3.0,2,Completed,No,4.0
+SYN0123,Records,Student,5/3/2025,Portal,Normal,Student Affairs,11,Yes,4.0,3,Completed,No,5.0
+SYN0124,Certification,Student,5/4/2025,Walk-in,Low,Registrar,15,Yes,,7,Pending,No,5.0
+SYN0125,Records,Student,5/5/2025,Portal,Low,Registrar,12,Yes,4.0,5,Completed,No,4.0
+SYN0126,Certification,Student,5/6/2025,Email,Low,Student Affairs,12,Yes,11.0,7,Completed,No,2.0
+SYN0127,Certification,Student,5/7/2025,Portal,High,Registrar,8,Yes,9.0,5,Completed,No,4.0
+SYN0128,Records,Student,5/8/2025,Portal,Normal,Student Affairs,12,Yes,3.0,2,Completed,No,5.0
+SYN0129,Records,Student,5/9/2025,Portal,Normal,Registrar,17,Yes,5.0,7,Completed,No,4.0
+SYN0130,IT Support,Student,5/10/2025,Walk-in,Normal,IT Office,12,Yes,,7,Pending,No,5.0
+SYN0131,Records,Student,5/11/2025,Portal,Normal,Registrar,11,Yes,,5,Pending,No,1.0
+SYN0132,Enrollment Assistance,Student,5/12/2025,Portal,Low,Registrar,9,Yes,,7,Cancelled,No,4.0
+SYN0133,IT Support,Student,5/13/2025,Portal,High,IT Office,8,Yes,2.0,2,Completed,No,5.0
+SYN0134,Certification,Student,5/14/2025,Email,Normal,Student Affairs,9,No,9.0,7,Completed,No,3.0
+SYN0135,IT Support,Student,5/15/2025,Email,Normal,IT Office,5,Yes,2.0,2,Completed,Yes,
+SYN0136,Records,Staff,5/16/2025,Portal,Normal,Registrar,11,Yes,8.0,7,Completed,No,3.0
+SYN0137,Enrollment Assistance,Student,5/17/2025,Walk-in,Normal,Registrar,7,Yes,1.0,2,Completed,No,
+SYN0138,Certification,Student,5/18/2025,Email,High,Student Affairs,14,Yes,4.0,5,Completed,No,4.0
+SYN0139,Scholarship Inquiry,Student,5/19/2025,Portal,Low,Scholarship Office,12,Yes,10.0,7,Completed,No,
+SYN0140,Records,Student,5/20/2025,Portal,Normal,Registrar,8,Yes,3.0,2,Completed,No,5.0
+SYN0141,Certification,Staff,5/21/2025,Portal,Normal,Student Affairs,8,No,3.0,2,Completed,No,3.0
+SYN0142,Certification,Student,5/22/2025,Walk-in,Normal,Registrar,15,Yes,8.0,7,Completed,No,2.0
+SYN0143,Enrollment Assistance,Student,5/23/2025,Portal,Low,Student Affairs,10,No,3.0,2,Completed,No,2.0
+SYN0144,IT Support,Staff,5/24/2025,Portal,Low,IT Office,17,No,,5,Pending,No,5.0
+SYN0145,Certification,Student,5/25/2025,Portal,Normal,Registrar,7,Yes,7.0,7,Completed,No,5.0
+SYN0146,Records,Student,5/26/2025,Portal,Normal,Student Affairs,9,Yes,,5,Pending,No,4.0
+SYN0147,Certification,Student,5/27/2025,Email,Normal,Registrar,14,Yes,2.0,3,Completed,No,4.0
+SYN0148,IT Support,Student,5/28/2025,Portal,Normal,IT Office,14,No,3.0,3,Completed,No,5.0
+SYN0149,Certification,Student,5/29/2025,Email,Normal,Student Affairs,10,Yes,8.0,5,Completed,No,4.0
+SYN0150,Records,Student,5/30/2025,Portal,Normal,Student Affairs,11,Yes,,5,Pending,No,5.0
+SYN0151,Scholarship Inquiry,Staff,5/31/2025,Portal,Normal,Scholarship Office,10,No,6.0,5,Completed,No,4.0
+SYN0152,Enrollment Assistance,Staff,6/1/2025,Portal,Normal,Registrar,7,Yes,1.0,2,Completed,No,5.0
+SYN0153,Records,Student,6/2/2025,Email,Normal,Registrar,8,Yes,5.0,5,Completed,No,
+SYN0154,IT Support,Student,6/3/2025,Portal,Normal,IT Office,11,Yes,3.0,5,Completed,No,4.0
+SYN0155,Records,Student,6/4/2025,Portal,Low,Registrar,7,No,7.0,5,Completed,Yes,1.0
+SYN0156,IT Support,Student,6/5/2025,,Normal,IT Office,14,No,5.0,2,Completed,No,3.0
+SYN0157,Certification,Student,6/6/2025,Portal,Normal,Student Affairs,6,Yes,5.0,5,Completed,Yes,5.0
+SYN0158,IT Support,Student,6/7/2025,Portal,Normal,IT Office,5,Yes,2.0,5,Completed,No,4.0
+SYN0159,Scholarship Inquiry,Student,6/8/2025,Portal,Normal,Scholarship Office,6,Yes,3.0,2,Completed,No,
+SYN0160,Scholarship Inquiry,Student,6/9/2025,Email,Normal,Scholarship Office,22,Yes,11.0,7,Completed,No,5.0
+SYN0161,Records,Student,6/10/2025,Portal,Normal,Student Affairs,6,Yes,,5,Pending,No,4.0
+SYN0162,Enrollment Assistance,Student,6/11/2025,Portal,Normal,Student Affairs,8,,,3,Pending,No,5.0
+SYN0163,Records,Student,6/12/2025,Portal,Normal,Registrar,12,Yes,5.0,5,Completed,No,4.0
+SYN0164,Records,Student,6/13/2025,Portal,Normal,Student Affairs,14,Yes,3.0,5,Completed,No,5.0
+SYN0165,IT Support,Student,6/14/2025,Portal,Normal,IT Office,9,Yes,9.0,5,Completed,No,1.0
+SYN0166,Certification,Faculty,6/15/2025,Portal,Normal,Registrar,10,Yes,2.0,3,Completed,Yes,5.0
+SYN0167,Scholarship Inquiry,Student,6/16/2025,Portal,Normal,Scholarship Office,5,Yes,6.0,7,Completed,No,
+SYN0168,Scholarship Inquiry,Faculty,6/17/2025,Portal,Normal,Scholarship Office,10,Yes,8.0,7,Completed,No,5.0
+SYN0169,Certification,Student,6/18/2025,Email,Normal,Student Affairs,8,Yes,,2,Cancelled,No,5.0
+SYN0170,Enrollment Assistance,Student,6/19/2025,Portal,Normal,Registrar,9,No,3.0,5,Completed,No,4.0
+SYN0171,Certification,Staff,6/20/2025,Portal,Normal,Student Affairs,12,Yes,,2,Pending,No,5.0
+SYN0172,IT Support,Student,6/21/2025,Walk-in,High,IT Office,10,Yes,6.0,3,Completed,No,5.0
+SYN0173,Records,Student,6/22/2025,Walk-in,High,Student Affairs,5,No,4.0,7,Completed,No,5.0
+SYN0174,Enrollment Assistance,Student,6/23/2025,Email,Normal,Student Affairs,10,Yes,1.0,2,Completed,No,2.0
+SYN0175,Records,Student,6/24/2025,Portal,Normal,Registrar,3,Yes,3.0,3,Completed,No,4.0
+SYN0176,Records,Student,6/25/2025,Portal,Normal,Registrar,9,Yes,3.0,2,Completed,Yes,5.0
+SYN0177,Certification,Student,6/26/2025,Portal,Normal,Student Affairs,13,No,3.0,5,Completed,No,2.0
+SYN0178,Enrollment Assistance,Faculty,6/27/2025,Portal,High,Registrar,13,Yes,2.0,3,Completed,No,5.0
+SYN0179,Enrollment Assistance,Student,6/28/2025,Portal,Normal,Registrar,13,No,3.0,5,Completed,No,5.0
+SYN0180,Scholarship Inquiry,Student,6/29/2025,Portal,Low,Scholarship Office,9,Yes,6.0,7,Completed,No,
+SYN0181,Enrollment Assistance,Student,6/30/2025,,Low,Student Affairs,7,Yes,5.0,5,Completed,No,3.0
+SYN0182,Enrollment Assistance,Faculty,7/1/2025,Portal,High,Student Affairs,10,Yes,,5,Pending,No,
+SYN0183,IT Support,Student,7/2/2025,Portal,Low,IT Office,10,Yes,3.0,2,Completed,No,2.0
+SYN0184,Certification,Student,7/3/2025,Portal,Normal,Student Affairs,7,Yes,1.0,2,Completed,No,4.0
+SYN0185,Scholarship Inquiry,Student,7/4/2025,Email,Normal,Scholarship Office,13,Yes,5.0,7,Completed,No,5.0
+SYN0186,IT Support,Student,7/5/2025,Email,Low,IT Office,5,No,11.0,7,Completed,No,2.0
+SYN0187,Certification,Student,7/6/2025,Portal,Normal,Student Affairs,6,Yes,,5,Pending,No,1.0
+SYN0188,Records,Student,7/7/2025,Portal,Normal,Registrar,9,Yes,1.0,3,Completed,No,1.0
+SYN0189,Scholarship Inquiry,Student,7/8/2025,Portal,Low,Scholarship Office,14,Yes,1.0,2,Completed,No,4.0
+SYN0190,Records,Student,7/9/2025,Portal,High,Registrar,7,Yes,8.0,7,Completed,No,5.0
+SYN0191,Enrollment Assistance,Student,7/10/2025,Email,High,Student Affairs,8,Yes,11.0,7,Completed,No,3.0
+SYN0192,Records,Student,7/11/2025,Portal,Normal,Registrar,11,Yes,1.0,2,Completed,No,3.0
+SYN0193,Records,Student,7/12/2025,Portal,Low,Registrar,13,Yes,4.0,5,Completed,No,5.0
+SYN0194,Scholarship Inquiry,Student,7/13/2025,Portal,Normal,Scholarship Office,11,Yes,4.0,5,Completed,Yes,4.0
+SYN0195,Records,Student,7/14/2025,Portal,Low,Registrar,7,No,4.0,3,Completed,No,5.0
+SYN0196,Records,Student,7/15/2025,Portal,Normal,Student Affairs,11,Yes,6.0,7,Completed,No,
+SYN0197,IT Support,Student,7/16/2025,Portal,High,IT Office,8,Yes,1.0,2,Completed,No,5.0
+SYN0198,Enrollment Assistance,Student,7/17/2025,Walk-in,High,Student Affairs,8,Yes,,3,Pending,No,5.0
+SYN0199,Records,Student,7/18/2025,Portal,Normal,Registrar,12,Yes,3.0,2,Completed,No,4.0
+SYN0200,Certification,Student,7/19/2025,Portal,Normal,Registrar,10,No,7.0,5,Completed,No,5.0
+SYN0201,Scholarship Inquiry,Student,7/20/2025,Portal,Normal,Scholarship Office,16,No,,5,Pending,No,4.0
+SYN0202,Enrollment Assistance,Student,7/21/2025,Portal,Normal,Registrar,7,No,7.0,7,Completed,No,2.0
+SYN0203,IT Support,Student,7/22/2025,Portal,Normal,IT Office,7,Yes,6.0,5,Completed,No,5.0
+SYN0204,Records,Student,7/23/2025,Portal,Normal,Student Affairs,7,Yes,2.0,2,Completed,No,2.0
+SYN0205,Records,Student,7/24/2025,Email,Low,Registrar,7,Yes,,3,Cancelled,No,
+SYN0206,Records,Student,7/25/2025,Portal,Normal,Student Affairs,6,Yes,1.0,2,Completed,No,5.0
+SYN0207,Records,Student,7/26/2025,Portal,Normal,Registrar,14,Yes,3.0,5,Completed,No,
+SYN0208,IT Support,Student,7/27/2025,Portal,Low,IT Office,9,Yes,6.0,5,Completed,No,4.0
+SYN0209,Records,Student,7/28/2025,Portal,Low,Registrar,9,No,6.0,7,Completed,No,4.0
+SYN0210,IT Support,Student,7/29/2025,Portal,High,IT Office,11,Yes,4.0,3,Completed,No,5.0
+SYN0211,IT Support,Faculty,7/30/2025,Walk-in,High,IT Office,5,Yes,1.0,3,Completed,No,4.0
+SYN0212,IT Support,Student,7/31/2025,Portal,Normal,IT Office,6,Yes,,2,Pending,No,5.0
+SYN0213,Records,Faculty,8/1/2025,Portal,High,Registrar,11,Yes,5.0,3,Completed,No,5.0
+SYN0214,Scholarship Inquiry,Student,8/2/2025,Email,High,Scholarship Office,10,Yes,1.0,3,Completed,No,
+SYN0215,Scholarship Inquiry,Student,8/3/2025,Portal,Low,Scholarship Office,19,Yes,3.0,7,Completed,No,5.0
+SYN0216,Scholarship Inquiry,Student,8/4/2025,Portal,Normal,Scholarship Office,9,No,,7,Cancelled,No,3.0
+SYN0217,Records,Student,8/5/2025,Portal,Normal,Student Affairs,6,Yes,1.0,2,Completed,No,4.0
+SYN0218,Records,Faculty,8/6/2025,Email,Low,Registrar,7,Yes,2.0,3,Completed,No,5.0
+SYN0219,Enrollment Assistance,Student,8/7/2025,Portal,Normal,Registrar,14,Yes,,5,Pending,No,3.0
+SYN0220,Certification,Staff,8/8/2025,Email,Normal,Registrar,9,Yes,5.0,3,Completed,No,4.0
+SYN0221,Certification,Student,8/9/2025,,Normal,Registrar,9,Yes,,2,Pending,No,4.0
+SYN0222,Certification,Faculty,8/10/2025,Email,Low,Registrar,9,Yes,6.0,7,Completed,No,3.0
+SYN0223,IT Support,Staff,8/11/2025,Walk-in,Low,IT Office,9,Yes,5.0,5,Completed,No,4.0
+SYN0224,Enrollment Assistance,Student,8/12/2025,Email,High,Student Affairs,10,Yes,,5,Pending,No,3.0
+SYN0225,Certification,Student,8/13/2025,Email,Low,Registrar,10,Yes,4.0,3,Completed,No,5.0
+SYN0226,Enrollment Assistance,Student,8/14/2025,Email,Normal,Registrar,8,Yes,9.0,7,Completed,No,3.0
+SYN0227,Records,Student,8/15/2025,Email,Normal,Registrar,5,Yes,1.0,2,Completed,No,5.0
+SYN0228,IT Support,Staff,8/16/2025,Email,Normal,IT Office,12,Yes,4.0,3,Completed,No,4.0
+SYN0229,IT Support,Student,8/17/2025,Walk-in,Normal,IT Office,7,Yes,6.0,7,Completed,No,
+SYN0230,Records,Student,8/18/2025,Portal,Normal,Student Affairs,13,Yes,5.0,7,Completed,No,1.0
+SYN0231,Records,Student,8/19/2025,Portal,Low,Registrar,11,Yes,5.0,3,Completed,No,4.0
+SYN0232,Certification,Student,8/20/2025,Portal,Normal,Registrar,9,Yes,4.0,5,Completed,No,4.0
+SYN0233,Enrollment Assistance,Staff,8/21/2025,Email,High,Registrar,11,Yes,1.0,2,Completed,No,4.0
+SYN0234,IT Support,Student,8/22/2025,Portal,Normal,IT Office,11,Yes,,2,Pending,No,4.0
+SYN0235,Enrollment Assistance,Student,8/23/2025,Email,Normal,Registrar,10,Yes,7.0,3,Completed,No,5.0
+SYN0236,Scholarship Inquiry,Staff,8/24/2025,Email,Normal,Scholarship Office,8,Yes,5.0,7,Completed,No,
+SYN0237,Certification,Student,8/25/2025,Walk-in,Normal,Registrar,9,No,5.0,5,Completed,No,4.0
+SYN0238,Scholarship Inquiry,Student,8/26/2025,Portal,Low,Scholarship Office,8,Yes,2.0,3,Completed,No,3.0
+SYN0239,Records,Student,8/27/2025,Email,Normal,Student Affairs,13,Yes,3.0,3,Completed,No,5.0
+SYN0240,Records,Student,8/28/2025,Email,Normal,Registrar,7,Yes,3.0,2,Completed,No,5.0
+SYN0241,Scholarship Inquiry,Student,8/29/2025,Walk-in,Normal,Scholarship Office,14,Yes,6.0,3,Completed,No,4.0
+SYN0242,Scholarship Inquiry,Faculty,8/30/2025,Walk-in,High,Scholarship Office,10,Yes,,2,Cancelled,No,5.0
+SYN0243,Records,Student,8/31/2025,Portal,Normal,Registrar,9,Yes,,2,Pending,No,4.0
+SYN0244,IT Support,Faculty,9/1/2025,Portal,Normal,IT Office,9,Yes,9.0,5,Completed,No,5.0
+SYN0245,IT Support,Faculty,9/2/2025,Portal,High,IT Office,8,Yes,,2,Pending,No,4.0
+SYN0246,Enrollment Assistance,Student,9/3/2025,Walk-in,Normal,Registrar,14,Yes,,2,Pending,No,4.0
+SYN0247,IT Support,Student,9/4/2025,Portal,High,IT Office,10,Yes,3.0,5,Completed,No,4.0
+SYN0248,Certification,Student,9/5/2025,Email,Normal,Registrar,12,Yes,1.0,3,Completed,No,5.0
+SYN0249,Certification,Student,9/6/2025,Email,High,Student Affairs,12,Yes,5.0,3,Completed,No,3.0
+SYN0250,Certification,Student,9/7/2025,Portal,Normal,Student Affairs,11,Yes,1.0,2,Completed,No,5.0
+SYN0251,IT Support,Student,9/8/2025,Portal,Normal,IT Office,10,Yes,4.0,2,Completed,No,5.0
+SYN0252,Enrollment Assistance,Student,9/9/2025,Portal,Normal,Student Affairs,7,Yes,4.0,3,Completed,No,5.0
+SYN0253,Certification,Student,9/10/2025,Email,Low,Registrar,7,Yes,1.0,5,Completed,No,1.0
+SYN0254,Records,Student,9/11/2025,Portal,Normal,Student Affairs,9,Yes,,3,Pending,No,4.0
+SYN0255,Records,Student,9/12/2025,Portal,High,Registrar,20,Yes,6.0,5,Completed,Yes,4.0
+SYN0256,Scholarship Inquiry,Student,9/13/2025,Email,Normal,Scholarship Office,11,Yes,4.0,5,Completed,No,5.0
+SYN0257,Scholarship Inquiry,Student,9/14/2025,Portal,Low,Scholarship Office,11,Yes,1.0,3,Completed,No,
+SYN0258,Records,Student,9/15/2025,Email,Normal,Student Affairs,9,Yes,4.0,3,Completed,No,4.0
+SYN0259,Records,Student,9/16/2025,Portal,Low,Student Affairs,18,Yes,6.0,3,Completed,No,5.0
+SYN0260,IT Support,Faculty,9/17/2025,Portal,Low,IT Office,12,Yes,,2,Pending,No,3.0
+SYN0261,Records,Faculty,9/18/2025,Portal,High,Student Affairs,15,Yes,,5,Pending,No,4.0
+SYN0262,Scholarship Inquiry,Student,9/19/2025,Portal,Normal,Scholarship Office,5,Yes,,5,Pending,No,2.0
+SYN0263,Certification,Student,9/20/2025,Portal,Normal,Student Affairs,14,No,,3,Pending,No,5.0
+SYN0264,Records,Student,9/21/2025,Email,Normal,Registrar,11,Yes,,3,Cancelled,No,3.0
+SYN0265,Enrollment Assistance,Student,9/22/2025,Portal,Low,Registrar,9,Yes,1.0,3,Completed,No,4.0
+SYN0266,Records,Student,9/23/2025,Portal,Normal,Student Affairs,19,Yes,5.0,5,Completed,No,5.0
+SYN0267,Certification,Student,9/24/2025,Portal,Normal,Registrar,7,Yes,8.0,7,Completed,No,4.0
+SYN0268,Records,Faculty,9/25/2025,Portal,Normal,Student Affairs,18,Yes,4.0,2,Completed,No,1.0
+SYN0269,Records,Staff,9/26/2025,Walk-in,High,Student Affairs,14,Yes,5.0,3,Completed,Yes,1.0
+SYN0270,Records,Faculty,9/27/2025,Portal,Normal,Student Affairs,6,Yes,5.0,2,Completed,No,4.0
+SYN0271,Records,Student,9/28/2025,Walk-in,Normal,Registrar,10,No,,3,Cancelled,No,4.0
+SYN0272,Records,Student,9/29/2025,Portal,Normal,Student Affairs,12,Yes,1.0,2,Completed,No,4.0
+SYN0273,Records,Staff,9/30/2025,Portal,High,Registrar,10,Yes,,3,Cancelled,No,5.0
+SYN0274,IT Support,Student,10/1/2025,Portal,Normal,IT Office,9,No,5.0,3,Completed,No,4.0
+SYN0275,IT Support,Student,10/2/2025,Portal,High,IT Office,5,Yes,6.0,3,Completed,No,5.0
+SYN0276,Certification,Student,10/3/2025,Email,Normal,Registrar,13,Yes,2.0,3,Completed,No,4.0
+SYN0277,Certification,Student,10/4/2025,Portal,High,Registrar,16,Yes,4.0,7,Completed,No,4.0
+SYN0278,IT Support,Student,10/5/2025,Portal,Low,IT Office,7,Yes,6.0,7,Completed,No,3.0
+SYN0279,Enrollment Assistance,Student,10/6/2025,Email,Normal,Student Affairs,7,Yes,1.0,2,Completed,No,4.0
+SYN0280,Enrollment Assistance,Student,10/7/2025,Portal,Normal,Student Affairs,6,Yes,,3,Pending,No,1.0
+SYN0281,Records,Student,10/8/2025,Walk-in,Normal,Student Affairs,7,Yes,6.0,7,Completed,No,4.0
+SYN0282,Records,Student,10/9/2025,Walk-in,Normal,Student Affairs,15,Yes,5.0,5,Completed,No,
+SYN0283,Records,Student,10/10/2025,Email,High,Registrar,11,Yes,1.0,2,Completed,No,5.0
+SYN0284,Records,Student,10/11/2025,Email,High,Registrar,13,Yes,4.0,5,Completed,No,4.0
+SYN0285,IT Support,Faculty,10/12/2025,Email,Normal,IT Office,8,Yes,3.0,2,Completed,No,5.0
+SYN0286,Certification,Student,10/13/2025,Portal,Normal,Student Affairs,7,No,1.0,2,Completed,No,5.0
+SYN0287,Records,Student,10/14/2025,Email,Normal,Registrar,17,Yes,4.0,5,Completed,No,5.0
+SYN0288,Certification,Student,10/15/2025,Portal,Normal,Registrar,13,Yes,3.0,5,Completed,No,4.0
+SYN0289,IT Support,Student,10/16/2025,Email,Low,IT Office,7,Yes,5.0,7,Completed,No,4.0
+SYN0290,Records,Faculty,10/17/2025,Walk-in,Low,Student Affairs,11,Yes,1.0,3,Completed,No,4.0
+SYN0291,Scholarship Inquiry,Student,10/18/2025,Portal,Normal,Scholarship Office,9,Yes,6.0,7,Completed,No,2.0
+SYN0292,Records,Student,10/19/2025,Email,Normal,Student Affairs,12,Yes,5.0,3,Completed,No,4.0
+SYN0293,Enrollment Assistance,Student,10/20/2025,Walk-in,High,Registrar,16,,2.0,5,Completed,No,5.0
+SYN0294,Records,Student,10/21/2025,Portal,Normal,Student Affairs,5,No,1.0,2,Completed,No,
+SYN0295,Enrollment Assistance,Staff,10/22/2025,Portal,High,Registrar,10,,1.0,2,Completed,No,3.0
+SYN0296,Enrollment Assistance,Student,10/23/2025,Walk-in,Normal,Registrar,10,Yes,8.0,7,Completed,No,4.0
+SYN0297,Enrollment Assistance,Staff,10/24/2025,Walk-in,Normal,Registrar,9,Yes,5.0,7,Completed,No,4.0
+SYN0298,Scholarship Inquiry,Faculty,10/25/2025,Portal,Low,Scholarship Office,11,No,6.0,7,Completed,No,4.0
+SYN0299,Scholarship Inquiry,Student,10/26/2025,Portal,Normal,Scholarship Office,11,Yes,1.0,3,Completed,No,5.0
+SYN0300,IT Support,Student,10/27/2025,Email,High,IT Office,15,Yes,,2,Pending,No,1.0
+SYN0301,Scholarship Inquiry,Student,10/28/2025,Portal,High,Scholarship Office,11,Yes,9.0,7,Completed,No,5.0
+SYN0302,Records,Student,10/29/2025,Portal,High,Student Affairs,9,Yes,,5,Pending,No,
+SYN0303,IT Support,Student,10/30/2025,Portal,Low,IT Office,14,Yes,3.0,2,Completed,No,5.0
+SYN0304,IT Support,Student,10/31/2025,Portal,Normal,IT Office,8,No,5.0,7,Completed,No,5.0
+SYN0305,Enrollment Assistance,Student,11/1/2025,Portal,Low,Registrar,9,No,10.0,7,Completed,No,4.0
+SYN0306,Certification,Student,11/2/2025,Email,Low,Registrar,13,Yes,4.0,3,Completed,No,4.0
+SYN0307,Certification,Student,11/3/2025,Portal,Normal,Student Affairs,12,Yes,,7,Pending,No,3.0
+SYN0308,IT Support,Student,11/4/2025,Email,Normal,IT Office,7,Yes,7.0,7,Completed,No,5.0
+SYN0309,Records,Student,11/5/2025,Portal,Normal,Student Affairs,6,No,6.0,5,Completed,No,2.0
+SYN0310,Records,Staff,11/6/2025,Portal,High,Student Affairs,11,Yes,5.0,5,Completed,No,5.0
+SYN0311,Certification,Student,11/7/2025,Portal,Normal,Student Affairs,15,Yes,4.0,3,Completed,No,4.0
+SYN0312,Certification,Student,11/8/2025,Portal,High,Student Affairs,6,,9.0,7,Completed,No,4.0
+SYN0313,Records,Student,11/9/2025,Portal,Low,Student Affairs,8,Yes,,7,Cancelled,No,4.0
+SYN0314,Certification,Student,11/10/2025,Portal,Normal,Student Affairs,14,Yes,7.0,7,Completed,No,
+SYN0315,Certification,Student,11/11/2025,Portal,Normal,Student Affairs,12,No,,5,Pending,No,3.0
+SYN0316,Certification,Student,11/12/2025,Portal,High,Registrar,9,No,2.0,2,Completed,Yes,3.0
+SYN0317,Certification,Faculty,11/13/2025,Email,Low,Registrar,6,No,2.0,3,Completed,No,3.0
+SYN0318,IT Support,Faculty,11/14/2025,Portal,Normal,IT Office,8,Yes,4.0,3,Completed,No,5.0
+SYN0319,Certification,Staff,11/15/2025,Walk-in,Normal,Student Affairs,10,Yes,,7,Pending,No,
+SYN0320,Enrollment Assistance,Student,11/16/2025,Email,Low,Registrar,4,Yes,5.0,5,Completed,No,4.0
+SYN0321,Enrollment Assistance,Student,11/17/2025,Portal,Normal,Student Affairs,13,Yes,4.0,5,Completed,No,
+SYN0322,Certification,Student,11/18/2025,Portal,High,Registrar,13,Yes,2.0,2,Completed,No,4.0
+SYN0323,Certification,Faculty,11/19/2025,Portal,Normal,Student Affairs,9,Yes,7.0,7,Completed,Yes,5.0
+SYN0324,IT Support,Student,11/20/2025,Portal,Normal,IT Office,10,Yes,4.0,3,Completed,No,2.0
+SYN0325,Enrollment Assistance,Student,11/21/2025,Portal,High,Registrar,7,Yes,1.0,2,Completed,No,4.0
+SYN0326,IT Support,Student,11/22/2025,Portal,Normal,IT Office,8,Yes,5.0,7,Completed,No,5.0
+SYN0327,Scholarship Inquiry,Student,11/23/2025,Portal,High,Scholarship Office,6,Yes,5.0,2,Completed,Yes,4.0
+SYN0328,IT Support,Student,11/24/2025,Portal,Normal,IT Office,8,Yes,1.0,2,Completed,No,4.0
+SYN0329,IT Support,Student,11/25/2025,Email,Normal,IT Office,7,Yes,,2,Pending,No,5.0
+SYN0330,Certification,Student,11/26/2025,Email,Normal,Student Affairs,16,Yes,2.0,3,Completed,No,
